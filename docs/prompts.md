@@ -12,6 +12,10 @@ awesome meticulous planning and execution so far! yes, please continue meticulou
 
 ---
 
+awesome job on meticulous analysis, planning and execution! please keep up the good work! Now, please think deeper and think harder to deeply explore thoroughly and systematically to re-imagine similar set of AI agent tools for Microsoft Powerpoint slides editing and manipulation. Then meticulous plan to create a master plan for creating the Powerpoint slides tools set.
+
+---
+
 Awesome job on your meticulous review, analysis and planning! Please keep up the good work in your rigorous and meticulous approach to planning and execution! Now, please meticulously plan and then create all the files you listed in your enhanced `Excel_Agent_Tool` design. Create each file within ```python tags and start each file with a comment line containing the filename of the file with the full (relative) path.
 
 # Recommended project structure:
